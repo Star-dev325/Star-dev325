@@ -1,1 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Star-dev325=anuraghazra&count_private=true)
+# Hi there👋, I'm Leon! :star:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Star-dev325&show_icons=true&theme=dracula&count_private=true&hide=prs,issues,contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Star-dev325&show_icons=true&theme=dracula&layout=compact)
